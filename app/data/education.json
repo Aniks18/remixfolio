@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "institution": "SRM Institute of Science and Technology",
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "duration": "2021 - 2025",
+      "location": "Chennai, India",
+      "subjects": [
+        {
+          "name": "Data Structures & Algorithms",
+          "grade": "A+"
+        },
+        {
+          "name": "Database Management Systems",
+          "grade": "A"
+        },
+        {
+          "name": "Computer Networks",
+          "grade": "A"
+        },
+        {
+          "name": "Operating Systems",
+          "grade": "A+"
+        },
+        {
+          "name": "Web Technologies",
+          "grade": "A+"
+        },
+        {
+          "name": "Machine Learning",
+          "grade": "A"
+        }
+      ],
+      "logo": "/images/education/srm.png"
+    },
+    {
+      "id": 2,
+      "institution": "Delhi Public School",
+      "degree": "Higher Secondary Education (CBSE)",
+      "duration": "2019 - 2021",
+      "location": "Delhi, India",
+      "cgpa": "94.6%",
+      "subjects": [
+        {
+          "name": "Computer Science",
+          "grade": "95%"
+        },
+        {
+          "name": "Mathematics",
+          "grade": "92%"
+        },
+        {
+          "name": "Physics",
+          "grade": "94%"
+        },
+        {
+          "name": "Chemistry",
+          "grade": "90%"
+        }
+      ],
+      "logo": "/images/education/dps.png"
+    }
+  ]

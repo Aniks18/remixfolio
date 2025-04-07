@@ -1,0 +1,58 @@
+{
+    "programming": {
+      "name": "Programming Languages",
+      "skills": [
+        { "name": "JavaScript", "level": 90, "icon": "/images/skills/javascript.svg" },
+        { "name": "TypeScript", "level": 80, "icon": "/images/skills/typescript.svg" },
+        { "name": "Python", "level": 85, "icon": "/images/skills/python.svg" },
+        { "name": "Java", "level": 75, "icon": "/images/skills/java.svg" },
+        { "name": "C++", "level": 70, "icon": "/images/skills/cpp.svg" },
+        { "name": "C", "level": 70, "icon": "/images/skills/c.svg" },
+        { "name": "Go (Golang)", "level": 65, "icon": "/images/skills/go.svg" },
+        { "name": "PHP", "level": 60, "icon": "/images/skills/php.svg" },
+        { "name": "Ruby", "level": 60, "icon": "/images/skills/ruby.svg" },
+        { "name": "HTML/CSS", "level": 95, "icon": "/images/skills/html5.svg" }
+      ]
+    },
+    "frameworks": {
+      "name": "Frameworks & Libraries",
+      "skills": [
+        { "name": "React", "level": 90, "icon": "/images/skills/react.svg" },
+        { "name": "Next.js", "level": 85, "icon": "/images/skills/nextjs.svg" },
+        { "name": "React Native", "level": 75, "icon": "/images/skills/react-native.svg" },
+        { "name": "Angular", "level": 70, "icon": "/images/skills/angular.svg" },
+        { "name": "Remix", "level": 70, "icon": "/images/skills/remix.svg" },
+        { "name": "Node.js", "level": 80, "icon": "/images/skills/nodejs.svg" },
+        { "name": "Express", "level": 75, "icon": "/images/skills/express.svg" },
+        { "name": "TailwindCSS", "level": 95, "icon": "/images/skills/tailwind.svg" },
+        { "name": "Bootstrap", "level": 70, "icon": "/images/skills/bootstrap.svg" },
+        { "name": "Django", "level": 65, "icon": "/images/skills/django.svg" }
+      ]
+    },
+    "databases": {
+      "name": "Databases & Tools",
+      "skills": [
+        { "name": "MongoDB", "level": 80, "icon": "/images/skills/mongodb.svg" },
+        { "name": "MySQL", "level": 85, "icon": "/images/skills/mysql.svg" },
+        { "name": "PostgreSQL", "level": 75, "icon": "/images/skills/postgresql.svg" },
+        { "name": "Firebase", "level": 75, "icon": "/images/skills/firebase.svg" },
+        { "name": "Supabase", "level": 70, "icon": "/images/skills/supabase.svg" },
+        { "name": "Git", "level": 90, "icon": "/images/skills/git.svg" },
+        { "name": "Docker", "level": 65, "icon": "/images/skills/docker.svg" },
+        { "name": "AWS", "level": 60, "icon": "/images/skills/aws.svg" }
+      ]
+    },
+    "others": {
+      "name": "Other Skills",
+      "skills": [
+        { "name": "UI/UX Design", "level": 75, "icon": "/images/skills/figma.svg" },
+        { "name": "Agile Development", "level": 80, "icon": "/images/skills/agile.svg" },
+        { "name": "Problem Solving", "level": 90, "icon": "/images/skills/problem-solving.svg" },
+        { "name": "Communication", "level": 85, "icon": "/images/skills/communication.svg" },
+        { "name": "Hackathons & Freelancing", "level": 95, "icon": "/images/skills/hackathon.svg" },
+        { "name": "Blockchain (Ethereum)", "level": 70, "icon": "/images/skills/blockchain.svg" },
+        { "name": "Chrome Extensions", "level": 65, "icon": "/images/skills/chrome.svg" }
+      ]
+    }
+  }
+  

@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "position": "Vice President",
+      "company": "Tech Club SRM",
+      "location": "Chennai, India",
+      "duration": "Jun 2023 - Present",
+      "description": [
+        "Led a team of 15 members to organize 5 major technical events and workshops",
+        "Managed club operations, event planning, and member recruitment activities",
+        "Developed the club's website and implemented an automated member management system",
+        "Increased club membership by 40% through strategic outreach and engaging events"
+      ],
+      "technologies": ["React", "Node.js", "MongoDB", "Event Management"],
+      "icon": "/images/experience/tech-club.svg"
+    },
+    {
+      "id": 2,
+      "position": "Web Development Intern",
+      "company": "InnoTech Solutions",
+      "location": "Remote",
+      "duration": "May 2023 - Aug 2023",
+      "description": [
+        "Designed and developed responsive web applications using React.js and Node.js",
+        "Collaborated with a team of 5 developers to implement new features and improve existing ones",
+        "Optimized database queries resulting in 30% faster page load times",
+        "Participated in daily scrums and sprint planning meetings"
+      ],
+      "technologies": ["React", "Node.js", "MongoDB", "RESTful APIs", "Git"],
+      "icon": "/images/experience/innotech.svg"
+    },
+    {
+      "id": 3,
+      "position": "Hackathon Organizer",
+      "company": "SRM Techfest",
+      "location": "Chennai, India",
+      "duration": "Sep 2022 - Oct 2022",
+      "description": [
+        "Coordinated a 36-hour hackathon with over 200 participants from various universities",
+        "Managed participant registration, event logistics, and judging criteria",
+        "Secured sponsorships worth ₹2,00,000 from tech companies",
+        "Developed an automated judging system for efficient evaluation of projects"
+      ],
+      "technologies": ["Event Management", "Project Evaluation", "Team Coordination"],
+      "icon": "/images/experience/hackathon.svg"
+    }
+  ]

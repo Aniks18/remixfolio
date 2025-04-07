@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "1st Place - Hack O Holics Hackathon 2023",
+      "description": "oooooooooo",
+      "image": "/images/achievements/hackathon.png",
+      "date": "November 2023",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Vice President - Tech Club",
+      "description": "Elected as Vice President of the university's tech club, leading a team of 15 members and organizing 5 major tech events during the academic year.",
+      "image": "/images/achievements/winme.jpg",
+      "date": "June 2023 - Present",
+      "link": "#"
+    }
+  ]

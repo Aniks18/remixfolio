@@ -1,0 +1,25 @@
+{
+    "email": "ak7525@srmist.edu.in",
+    "socials": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/",
+        "icon": "/images/socials/github.svg"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/aniket-kumar-58a10b292/",
+        "icon": "/images/socials/linkedin.svg"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/niks_lnn18?igsh=MXM2MWNlYnJmdGR0Zg==",
+        "icon": "/images/socials/instagram.svg"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/",
+        "icon": "/images/socials/twitter.svg"
+      }
+    ]
+  }

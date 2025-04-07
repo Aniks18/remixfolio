@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Full Stack Web Development",
+      "issuer": "Udemy",
+      "date": "Sep 2023",
+      "link": "#",
+      "image": "/images/certifications/udemy.svg",
+      "category": "Web Dev"
+    },
+    {
+      "id": 2,
+      "name": "Machine Learning Specialization",
+      "issuer": "Coursera",
+      "date": "Jul 2023",
+      "link": "#",
+      "image": "/images/certifications/coursera.svg",
+      "category": "ML"
+    },
+    {
+      "id": 3,
+      "name": "Cloud Practitioner",
+      "issuer": "AWS",
+      "date": "May 2023",
+      "link": "#",
+      "image": "/images/certifications/aws.svg",
+      "category": "Cloud"
+    },
+    {
+      "id": 4,
+      "name": "React Native - The Practical Guide",
+      "issuer": "Udemy",
+      "date": "Mar 2023",
+      "link": "#",
+      "image": "/images/certifications/udemy.svg",
+      "category": "Mobile Dev"
+    },
+    {
+      "id": 5,
+      "name": "UI/UX Design Fundamentals",
+      "issuer": "Google",
+      "date": "Feb 2023",
+      "link": "#",
+      "image": "/images/certifications/google.svg",
+      "category": "Design"
+    },
+    {
+      "id": 6,
+      "name": "Python for Data Science and AI",
+      "issuer": "IBM",
+      "date": "Dec 2022",
+      "link": "#",
+      "image": "/images/certifications/ibm.svg",
+      "category": "ML"
+    }
+  ]

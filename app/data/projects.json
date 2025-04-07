@@ -1,0 +1,105 @@
+[
+    {
+      "id": 1,
+      "title": "AI Study Companion",
+      "description": "An AI-powered web application that helps students organize study materials, create flashcards, and generate practice questions for efficient learning.",
+      "image": "/images/projects/ai-study-companion.png",
+      "technologies": [
+        {
+          "name": "React",
+          "icon": "/images/skills/react.svg"
+        },
+        {
+          "name": "Node.js",
+          "icon": "/images/skills/nodejs.svg"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "/images/skills/mongodb.svg"
+        },
+        {
+          "name": "OpenAI API",
+          "icon": "/images/skills/openai.svg"
+        }
+      ],
+      "github": "https://github.com/username/ai-study-companion",
+      "demo": "https://ai-study-companion.example.com",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Eco Track",
+      "description": "A mobile application that tracks users' carbon footprint based on daily activities and provides suggestions for reducing environmental impact.",
+      "image": "/images/projects/eco-track.png",
+      "technologies": [
+        {
+          "name": "React Native",
+          "icon": "/images/skills/react.svg"
+        },
+        {
+          "name": "Firebase",
+          "icon": "/images/skills/firebase.svg"
+        },
+        {
+          "name": "TensorFlow Lite",
+          "icon": "/images/skills/tensorflow.svg"
+        }
+      ],
+      "github": "https://github.com/username/eco-track",
+      "demo": "https://eco-track.example.com",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Smart Campus",
+      "description": "An IoT-based solution for smart campus management, including automated attendance, energy usage monitoring, and smart classroom features.",
+      "image": "/images/projects/smart-campus.png",
+      "technologies": [
+        {
+          "name": "Python",
+          "icon": "/images/skills/python.svg"
+        },
+        {
+          "name": "Arduino",
+          "icon": "/images/skills/arduino.svg"
+        },
+        {
+          "name": "MQTT",
+          "icon": "/images/skills/mqtt.svg"
+        },
+        {
+          "name": "React",
+          "icon": "/images/skills/react.svg"
+        }
+      ],
+      "github": "https://github.com/username/smart-campus",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Dev Portfolio",
+      "description": "A responsive developer portfolio website built with Remix and TailwindCSS, featuring an adventure game-inspired theme and interactive elements.",
+      "image": "/images/projects/dev-portfolio.png",
+      "technologies": [
+        {
+          "name": "Remix",
+          "icon": "/images/skills/remix.svg"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "/images/skills/typescript.svg"
+        },
+        {
+          "name": "TailwindCSS",
+          "icon": "/images/skills/tailwind.svg"
+        },
+        {
+          "name": "GSAP",
+          "icon": "/images/skills/gsap.svg"
+        }
+      ],
+      "github": "https://github.com/username/dev-portfolio",
+      "demo": "https://aniket-kumar.example.com",
+      "featured": false
+    }
+  ]
