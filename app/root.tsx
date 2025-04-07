@@ -8,10 +8,10 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 
-import styles from "./styles/tailwind.css";
+import stylesheet from './styles/tailwind.css';
 
 export const links: LinksFunction = () => [
-  { rel: "stylesheet", href: styles },
+  { rel: "stylesheet", href: stylesheet },
   { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Fira+Code:wght@400;600&display=swap" },
   { rel: "stylesheet", href: "https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" },
 ];
