@@ -11,14 +11,14 @@ import {
 import "./styles/tailwind.css";
 
 export const links: LinksFunction = () => [
-  
+  { rel: "stylesheet", href: "/styles/tailwind.css" },
   { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Fira+Code:wght@400;600&display=swap" },
   { rel: "stylesheet", href: "https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" },
 ];
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "Aniket Kumar - Tech Enthusiast & B.Tech CSE Student" },
+    { title: "Aniket Kumar },
     { name: "description", content: "Portfolio showcasing my projects, skills, and achievements as a B.Tech CSE student and tech enthusiast." },
     { name: "viewport", content: "width=device-width,initial-scale=1" },
   ];
