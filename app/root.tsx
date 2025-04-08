@@ -18,7 +18,7 @@ export const links: LinksFunction = () => [
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "Aniket Kumar },
+    { title: "Aniket Kumar"},
     { name: "description", content: "Portfolio showcasing my projects, skills, and achievements as a B.Tech CSE student and tech enthusiast." },
     { name: "viewport", content: "width=device-width,initial-scale=1" },
   ];
